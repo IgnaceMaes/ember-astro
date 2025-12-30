@@ -1,6 +1,6 @@
 # ember-astro
 
-Ember integration with [astro.build](https://astro.build/)
+[Ember](https://emberjs.com/) integration with [astro.build](https://astro.build/)
 
 ## Install
 
